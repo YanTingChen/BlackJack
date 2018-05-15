@@ -1,0 +1,10 @@
+{
+  "name": "BlackJack",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Tom Chen",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "1.7.4"
+  }
+}
