@@ -5,6 +5,11 @@
   "author": "Tom Chen",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "1.7.4"
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
   }
 }
